@@ -1,5 +1,3 @@
-
-=======
 # Sabrina Engineering – Technical Manuals - DooDar 9000
 
 ## Introduction
